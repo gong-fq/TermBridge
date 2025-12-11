@@ -1,0 +1,5 @@
+{
+  "name": "ProTerm Trans",
+  "description": "A professional English-to-Chinese translator designed for technical articles. It preserves specialized terminology, offers side-by-side comparison, and generates an automatic glossary of key terms.",
+  "requestFramePermissions": []
+}
